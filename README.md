@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br><br>I really Like Building Tools! 🪓<br>
-<br>Mainly word with C#, React, Vue and python<br>
+<br>I'm experienced in Golang, C#, Javascript.<br>
 
 
 ## 🌐 Socials:
